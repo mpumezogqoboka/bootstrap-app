@@ -1,0 +1,28 @@
+.heading {
+    padding-top: 30px;
+    
+}
+
+.heading > h1 {
+    text-align: center;
+}
+
+.nav-item {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card-body > img {
+    height: 200px;
+    width: 200px;
+    object-fit: fill;
+}
+
+.row {
+    padding-top: 10px;
+}
+
+.list-group {
+    padding-top: 10px;
+}
